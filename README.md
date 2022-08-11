@@ -1,2 +1,2 @@
-# simplex-app
-simple simplexe App with python
+# Simplex-app
+### Simple Simplexe App With Python
